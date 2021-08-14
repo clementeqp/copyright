@@ -6,7 +6,7 @@ sublicenciar y / o vender copias del Software, y permitir que las personas a las
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-* Traducción: ¡Por supuesto que puedes usar esto para tu proyecto! Solo asegúrate de decir de dónde sacaste esto :)
+¡Por supuesto que puedes usar esto para tu proyecto! Solo asegúrate de decir de dónde sacaste esto :)
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADO A,
 LAS GARANTÍAS DE COMERCIABILIDAD, APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. 
